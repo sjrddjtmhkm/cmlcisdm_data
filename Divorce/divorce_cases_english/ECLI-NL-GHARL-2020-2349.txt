@@ -1,0 +1,223 @@
+Pronunciation
+
+
+COURT OF ARNHEM-LEEUWARDEN
+location Arnhem
+
+civil law department
+
+case number court 200,251,274
+
+(case number court Overijssel (location Almelo) 187944)
+
+judgment of March 17, 2020
+
+in the case of
+
+[appellant],
+
+residing in [A],
+
+appellant,
+
+at first instance: defendant in convention, claimant in counterclaim,
+
+hereinafter: [appellant],
+
+lawyer: mr. F. Kolkman,
+
+against:
+
+[intimidated] q.q.,
+
+in his capacity as executor in the estate of
+
+[testator],
+
+residing in [B], United States of America,
+
+intimidated,
+
+at first instance: plaintiff in convention, defendant in counterclaim
+
+hereinafter: [respondent],
+
+lawyer: mr. S.M. Bosch.
+
+1 Proceedings
+
+1 The proceedings at first instance
+For the proceedings in the first instance, the Court of Appeal refers to the content of the judgments of 5 October 2016, 8 March 2017 and 29 August 2018 that the District Court of Overijssel (sector canton, location Almelo) has given.
+
+The appeal proceedings
+2.1
+The course of the procedure can be seen from:
+
+- the summons on appeal of 29 November 2018,
+
+- the statement of objections (including exhibits),
+
+- the response,
+
+- a deed of [appellant] (with production) and a deed of reply of [respondent] (with productions).
+
+2.2
+Subsequently, the parties submitted the documents for the delivery of a judgment to the court and the court determined a judgment.
+
+2 Facts
+
+3.1
+The appeal is based on the following facts.
+
+3.2
+[In] 2015, [testator] (hereinafter: testator) died, leaving behind two children - [C] and [defendant] - from his first marriage to [D], and [appellant] from his second marriage to [E]. (hereinafter: [E]). The latter marriage was dissolved by divorce on May 16, 2014.
+
+3.3
+According to a statement of inheritance and executions, drawn up by notary public [F] in [G], the testator appointed [defendant] as sole heir and executor in a will of 10 April 2015. According to a private deed of June 22, 2015, [respondent] accepted the appointment as executor.
+
+3.4
+By deed of 19 June 2002, the testator delivered shares in the house [street 1] in [A] (hereinafter: the house) to his then wife [E], [defendant] and [appellant], after having previously entered into a purchase agreement, respectively 35/100, 20/100 and 20/100 undivided part, at a purchase price of € 127,050 and € 72,600 and
+
+€ 72,600. By agreement of no-waiver / cancellation of 19 June 2002, testator on the one hand and [E], [respondent] and [appellant] on the other, stated that testator waives for [E], [respondent] and [appellant] (specified) purchase prices under the obligation to recognize the same amount (under specified conditions). In the same agreement, the testator relinquished part of his claim towards [defendant] and [appellant], after which a debt of € 38,575 remained for each of them.
+
+3.5
+By judgment of 2 November 2016, the District Court of Overijssel decided as follows in the proceedings between [E] as plaintiff and [defendant] - as successor to testator - as defendant:
+
+- [respondent] must pay € 93,024.94 to [E],
+
+- [E] must pay € 127,050 to [defendant].
+
+On March 1, 2017, notice was received from the Court of Appeal at the Registry of the court that an appeal has been lodged against this judgment.
+
+3 Scope of Dispute
+4.1
+In summary, [defendant], in his capacity as executor in the estate of the deceased, has demanded - in summary - to order [appellant] to pay:
+
+I. € 38,575 plus statutory interest;
+
+II. the extrajudicial costs of € 1,160 plus interest;
+
+III. declare the costs of the attachment of its share in the immovable property at [a-street 1] in [A] and the imposed attachment attachment of value;
+
+IV. the legal costs, including the follow-up costs.
+
+4.2
+In summary, [appellant] has demanded - in summary - to convict [intimidated] q.q .:
+
+A. pay the legitimate portion due to it;
+
+B. to provide [appellant] with a specification of the legitimate mass, and of all parts of the legitimate mass, within three days after the date of the judgment to be rendered in this and on pain of a penalty of € 1,000 per day. provide evidence to [appellant] for inspection;
+
+C. to pay the costs of the proceedings.
+
+4.3
+The subdistrict court awarded claims I., II, III and IV of [defendant] by judgment of October 29, 2018, with the exception of the declaration of value of the attachment. In the counterclaim, the Subdistrict Court has ordered [defendant] or qq to provide [appellant] documents for inspection and copies that relate to and provide information about the debt to [defendant] of € 452,473.06 as of May 4, 2015, on pain of a penalty of € 5,000.
+
+4.4
+The judgment has been declared enforceable in stock in both convention and counterclaim. The legal costs have been compensated so that everyone bears their own costs and the other claims are rejected.
+
+4 Reasons of the Decision
+5.1
+The court will deal with the grievances per subject. In this case it concerns the claim of [defendant] with regard to the remaining purchase price, and with the claim of [appellant] with regard to its legitimate portion. The court initially dismissed the claim regarding the legitimate one because it was brought against [defendant] in his capacity as an executor. The court will first discuss this point.
+
+The claim (in counterclaim) for payment of the legitimate portion
+
+5.2
+[appellant] appealed in the first instance in counterclaim to set off the claim of the estate against her in connection with the residual purchase price of her share in the home with her claim against the estate in connection with her legitimate portion. In the contested judgment at 3.11 the court considered that the claim for payment of the legitimate in these proceedings cannot be granted, and in view of Article 136 DCCP there can be no set-off, because [appellant] has a claim against the heirs ( = [defendant]) and not against the executor, against whom she has brought the counterclaim, even if the heir and executor are one and the same person in this case. With complaint VII [appellant] objects to this consideration. On appeal, [respondent] no longer raised any objections to this.
+
+5.3
+The court holds that [respondent] refers to the judgment of the court on this point, and judges as follows. Pursuant to Article 4: 145 paragraph 2 of the Dutch Civil Code, the executor represents the heirs in and out of court during his management. This power of representation is privative and during the administration the heirs are in principle not authorized. Article 4: 144 (paragraph 1) of the Dutch Civil Code provides that the executor has the task of managing the assets of the estate and paying the debts of the estate, which are to be paid out of those assets during his administration. Legitimate portions that are claimed under Article 4:80 of the Dutch Civil Code - as discussed here - are debts of the estate under Article 4: 7 (1) (g) of the Dutch Civil Code. It is therefore the task of the executor to pay them out. In this case, moreover, the capacity of the executor and [intimidated] “in private” as sole heir coincide. Therefore, the Court of Appeal is of the opinion, partly in view of the principles of procedural economy, that Article 136 DCCP does not preclude an assessment of the claim in the counterclaim of [appellant]. Grief VII succeeds.
+
+The claim (in convention) for payment of the remaining purchase price
+
+5.4
+With her first two complaints, [appellant] disputes the court's decision to convict her to pay € 38,575 to [defendant] and the court's judgment that [appellant] has not proved that the deed of renunciation for no / remission is a sham agreement and that it was never the intention of testator and [appellant] that part of the purchase price should still be paid. [appellant] makes an offer of evidence, including by hearing witnesses: [appellant] herself, [E], [H], [I], [J], [K] and [L]. [respondent] made a reasoned defense.
+
+5.5
+In the transcripts of the conversation with testator on June 4, 2013 and the (extended version of the) sound fragments, submitted by [appellant], the court sees no reason to arrive at a different opinion than the court in the contested judgment. Although this material shows some ambivalence on the part of the testator about the residual debt of [appellant], the sound fragments, also seen in connection with the various witness statements, are not sufficient to conclude that the notarial deed of renunciation not / remission of June 19, 2002 has been a sham agreement. On the one hand, testator has indicated that it is reasonable that [respondent] inherits from him and [appellant] from her mother, and on the other hand he has said: "I will certainly not steal my daughter, throw it away. ” It can also be deduced from the conversation that testator wanted to limit inheritance tax, and that he thought he could always do things differently than by means of a notarial deed. In addition, the court of appeal (as well as the court) notes that it cannot be ruled out that testator may have wanted to waive the remaining purchase price of [appellant]. But it remains important that the conversation took place on June 4, 2013 and testator died almost two years later. If the testator wanted something different from what was stated in the deed, after the conversation with [appellant] and her mother, he had ample opportunity to make any changes to it. However, testator has not changed in the last two years. Therefore, the starting point for the assessment of the dispute must be what is stated in the deed. It has not been established that the outstanding debt has been canceled. For the rest, the court adopts the considerations of the court under 2.7 and makes them his own. [Appellant] could have been expected to have stated in more detail to what extent the witnesses can explain more or differently than they already did, where she presents the same witnesses who also stated at first instance about the same probandum (compare HR 9 July 2004). ECLI: NL: HR: 2004: AO7817 and HR October 13, 2006, ECLI: NL: HR: 2006: AX7802). With regard to Mr [L], on appeal a party offering evidence may be expected to indicate sufficiently concretely to which of its statements this offering relates and, as far as possible, who could make a statement about it ( HR July 9, 2004, HR: 2004: AO7817). [Appellant] failed to do this.
+
+5.6
+It is certain that [appellant] never paid the remainder of € 38,575. In view of the deed, this means that [appellant] is still owed to the deceased, or to his estate. The complaint fails.
+
+Claim (counterclaim) regarding legitimate portion
+
+5.7
+Now that complaint VII is successful, the Court of Appeal arrives at the counterclaim of [appellant] with regard to the legitimate portion. [appellant] claims that it has a claim to be set off against the debt referred to under 5.6 above. [respondent] has put forward a reasoned defense against this.
+
+5.8
+If and insofar as [appellant] still has a claim against [defendant] with regard to her legitimate portion, this can be set off against the above debt. The court must therefore assess whether and, if so, to what extent [appellant] has a claim.
+
+5.9
+[appellant] states that the testator still had assets other than those stated in the description of the estate (Exhibit 1 to the deed of first instance on behalf of [appellant] of 3 May 2017). [Appellant] relies for this purpose on procedural documents from the procedure for the settlement of the testator's matrimonial property and [E]. Also, according to [appellant], the following assets (among others) were still present:
+
+- Rabo account number [00000]
+
+- Regionsbank USA account number [00001]
+
+- life insurance with [M] and [N]
+
+- multiple real estate in the United States
+
+- shares in 3 companies:
+
+- [O] BV
+
+- [P] BV
+
+- [Q] Inc.
+
+- a weapon collection
+
+- cars.
+
+[appellant] further suspects that testator has made various donations to [intimidated], with or without the prospect of harming [appellant] as legitimist. These gifts must be taken into account when calculating the legitimate portion (Article 4:67 (a) and / or (d) of the Dutch Civil Code).
+
+[appellant] also relies on Article 4:78 of the Dutch Civil Code and is entitled to inspect and copy a number of documents in order to be able to calculate her legitimate portion.
+
+5.10
+[defendant] has disputed that the assets stated by [appellant] are present. Also, no assets have been transferred to [respondent]. The notarial inventory description also provides [appellant] with sufficient clarity for calculating its legitimate portion. The estate is negative, so the legitimate portion of [appellant] is nil. [appellant] has not substantiated or proved that the inventory description is incorrect. She also failed to have the executor declared under oath, said [respondent]. [respondent] is of the opinion that as an executor he has complied with the obligation to provide information pursuant to Section 4:78 of the Dutch Civil Code. He cannot be expected to check the deceased's financial business 10-15 years before his death. [respondent] has provided sufficient and substantiated clarity. [appellant] received those supporting documents. This allows her to calculate her legitimate portion - which, as the inventory shows, is nil. The actual claim of [defendant] on the estate is expected to be higher, but it has already been adjusted downwards to avoid discussions.
+
+5.11
+The parties have had the following debate regarding the assets listed by [appellant].
+
+5.12
+According to [respondent], testator has invested a lot of money in the house and its renovation. Before he went abroad he also traded in miniature horses and invested money in the house, barns, fences and horses in connection with this. After the divorce, the proceeds from, among other things, the home in the United States were divided between testator and [E]. In the appeal division, the testator was also ordered to repay a loan to [E] of € 90,000. For her part, [appellant] has argued that the house was bought by testator in 1975 and not only in 2002. The renovation of the house and the construction of a new shed near the house took place in the 1980s. Since 2002, further renovations and maintenance have been paid by [E] and [appellant] themselves. The testator or [respondent] never contributed anything to this, so that the testator's money was not spent on it.
+
+5.13
+[Defendant] has argued that he cannot ascertain exactly what happened to the proceeds from the sale of the deceased's company. The sale dates back at least ten years before the death of the testator. It is certain that testator left for the United States, later for Indonesia and even later for Thailand. According to [respondents], [E] and [appellant] have lived from the testator's pension for a long period in the Netherlands. As a result, testator abroad had no income of his own and it is not surprising that he consumed his assets to the extent that they are still present. In addition, the testator has borrowed funds from [respondents] for which promissary notes have been drawn up. There is no question of transferring assets from testator to [respondent]. However, [respondent] has paid all sorts of costs for testator. [appellant] objected to this that she and [E] were not living on the AOW benefit from her testator; [appellant] and [E] each had a job with the company [R] bp. The deceased's AOW benefit, including the deceased's health insurance premium, medicines, and mortgage not yet repaid, were paid. The testator had income during his stay abroad; in those years he was among others on the payroll at [P] USA. The latter point has been recognized by [respondent].
+
+5.14
+The court rules as follows. With regard to the items relating to the real estate abroad and the shares in the companies, [appellant] has not yet sufficiently substantiated, as against the reasoned contestation by [defendant], that these assets were still present at the time of the deceased's death. She can be expected to make inquiries of her own with the trade register and the land register, but she has not provided any evidence to suggest that these elements were (still) present at the time of the deceased's death. Incidentally, [appellant] herself (paragraph 60 statement of appeal) stated that a house in [B] was sold in 2005 and the company in 2002. It may be that revenues have replaced this, but - without further explanation, which is however lacking - it is not realistic to expect that these will still be (fully) present in 2015. Moreover, it has been established that the testator also had to settle the matrimonial property upon his divorce from [E]. Also with regard to the weapon collection and cars, she has not provided any substantiation as to what these matters are and whether they were still present on the date of the deceased's death. [Appellant] has therefore made insufficient statements on this point.
+
+5.15
+In addition to the documents relating to the testator's debt to [defendant], [appellant], € 452,437.06 asked for copies of documents proving the correctness of the entire inventory to be issued. [Appellant] has a legitimate interest in information about the period prior to the deceased's death in order to calculate her legitimate claim. The obligation to provide information under Section 4:78 of the Dutch Civil Code also includes the submission of bank statements for the period before the deceased's death. [appellant] has stated that she suspects that [defendant] has received several donations from testator. In view of article 4:67 of the Dutch Civil Code, [respondents] must submit to the court and to [appellant] the following documents in copy:
+
+a. an overview of all donations;
+
+b. the bank statements of the deceased's Dutch and foreign bank accounts from five years before the deceased's death up to and including the date of his death;
+
+c. the income tax returns and assessments - both Dutch and possibly foreign - from testator for the years 2010 to 2015;
+
+d. inheritance tax returns and assessments related to the deceased's estate;
+
+5.16
+In addition, the Court of Appeal sees reason to order [respondents] to submit the policy sheets and copies of the testator's life insurance policies to [M] and [N] from the end of 2010 until the testator's death date.
+
+For the time being, the court sees no reason to submit documents of an older date than mentioned above.
+
+5.17
+Furthermore, both parties refer to the appeal proceedings in the division case between testator and [E], but neither of them has so far challenged the court's ruling (s). The Court of Appeal will determine that [respondent] as the most ready party must also bring this into question in the deed to be taken.
+
+5.18
+The court will refer the case to the role for bringing these documents to court by deed. [appellant] can then respond to this by deed with a calculation of her legitimate portion. Any further decision will be reserved.
+
+5 Decision
+The court of appeal on appeal:
+
+6.1
+refers the case to the roll date of 14 April 2020 for the taking of a deed by [respondent] as referred to above at 5.15, 5.16 and 5.17;
+
+6.2
+furthermore, every decision remains.
+
+This judgment was given by mrs. M.L. van der Bel, M.H.H.A. Moes and J.U.M. van der Werff and was pronounced in public in the presence of the Registrar on March 17, 2020.

@@ -1,0 +1,206 @@
+Pronunciation
+
+
+COURT OF ZEALAND-WEST-BRABANT
+Tax law, single room
+
+Location: Breda
+
+Case number BRE 18/3843
+
+ruling of March 12, 2020
+
+Judgment as referred to in section 8.2.6 of the General Administrative Law Act (Awb) in the proceedings between
+
+[interested party], residing in [place of residence] (Belgium),
+
+stakeholder,
+
+and
+
+the inspector of the Tax Authorities,
+
+the inspector.
+
+1 Facts
+
+The inspector's decision of 16 May 2018 on the objection of the interested party to the income tax and national insurance (IB / PVV) assessment for 2015 imposed on her, calculated based on a taxable income from work and home of € 62,617, as well as the associated tax interest charged of € 195 (assessment number [assessment number] .H.56.01).
+
+Session
+
+The examination in court took place on January 14, 2020 in Tilburg. There appeared and heard on behalf of the interested party, its authorized representative [authorized representative], affiliated with [authorized representative's office] in Roermond, and on behalf of the inspector [inspector 1] and [inspector 2].
+
+2 Decision
+The court:
+
+declares the appeal well founded;
+
+quashes the statement of objection;
+
+reduces the IB / PVV assessment to a calculated to a taxable income from work and home of € 60,062 and reduces the tax interest disposition accordingly;
+
+orders the inspector to pay the court costs of the interested party amounting to € 1,050;
+
+order that the inspector reimburse the court fee of € 46 paid by the interested party.
+
+3 Facts
+
+2.1.
+The interested party is married on marriage terms to [the spouse] (hereinafter: the spouse). Interested party and her husband live in Belgium all year round in 2015. The house in Belgium is owned by the interested party and her husband, each for the undivided half. The house qualifies as an owner-occupied home within the meaning of Article 3.111 of the Income Tax Act 2001 (hereinafter: Wet IB 2001).
+
+2.2.
+The interested party is the sole shareholder in [the B.V.]. (hereinafter: the B.V.). To finance the home, the interested party took out a mortgage loan with the B.V. The interest expenses related to the mortgage debt in 2015 amounted to a total of € 14,520.
+
+2.3.
+The interested party received wages from employment in the Netherlands in 2015. Her income is taxed in the Netherlands. Under the prenuptial agreement, the interested party and her spouse must contribute to the costs of the joint household in proportion to their net income. For the interested party, this means that, for the year under review, it must contribute 67.6% to the costs of the joint household. The stakeholder's share of household income is therefore 67.6%. The income of the spouse in this year was 32.4% of the family income, almost entirely came up in the Netherlands and is partly taxed in the Netherlands and partly in Belgium.
+
+2.4.
+In her declaration IB / PVV for the year 2015, the interested party indicated that she can be classified as a qualifying non-resident taxpayer. The declaration also states, insofar as it is relevant here, the following:
+
+income from current employment
+
+€ 73.108
+
+Share in income from owner-occupied home
+
+50%
+
+€ 2,231
+
+Share of deductible items for owner-occupied home
+
+50%
+
+€ 7,260 - / -
+
+Balance of other elements in the declaration
+
+€ 5,462 - / -
+
+Taxable income from work and home
+
+€ 62,617
+
+2.5.
+With date 6 October 2017, the inspector has determined the assessment in accordance with the declaration submitted by the interested party. The interested party objected to this assessment on 1 November 2017.
+
+2.6.
+The amount of taxable income from work and home is disputed between the parties. More specifically, it is in dispute whether the interested party is entitled to a deduction of more than 50% of the deductible items for an owner-occupied home.
+
+2.7.
+The interested party takes the position that it is entitled to deduct the full amount of deductible items for owner-occupied home (being € 14,520, primary position) or pro rata allocation of the deductible items for owner-occupied home (being 67.6% of € 14,520, therefore € 9,815, alternative position). The inspector takes the position that the assessment is correct.
+
+4 Reasons of the Decision
+
+Application of national law
+
+2.8.
+Article 2.5 (old) of the IB 2001 Act (legislation up to and including 2014), which gave foreign taxpayers the option of opting for resident taxpayer status, has been replaced by the legislator by the current Article 7.8 of the IB 2001 Act. In doing so, the legislator wanted to align more closely with the case law of the European Court of Justice (hereinafter: CJEU). The following has been noted in this amendment of the law (Parliamentary Papers II 2013/2014, 33 752, no. 11, p. 74 and 75):
+
+"An important motive for the new regulation is that the Cabinet does not (longer) want to give tax benefits to non-residents where this is not necessary under European Union law."
+
+2.9.
+In order to qualify as a qualifying non-resident taxpayer, the income requirement of Article 7.8, paragraph 6, of the Wet IB 2001 (hereinafter: the income requirement) must be met. Article 7.8, sixth paragraph, of the Wet IB 2001 states:
+
+"A qualifying non-resident taxpayer is a person who is resident in another Member State of the European Union (…) in the taxation of that other Member State (…) and who:
+
+a. whose income is wholly or almost entirely in the Netherlands subject to wage tax or income tax, or
+
+b. whose income, together with that of a taxpayer who would be regarded as his partner if both persons were resident taxpayers, is wholly or almost entirely subject to payroll tax and income tax in the Netherlands,
+
+(...). ”
+
+2.10.
+There is no dispute between the parties that the income of the interested party is almost entirely subject to income tax in the Netherlands and that the interested party should be regarded as a qualifying non-resident taxpayer. Nor is it in dispute that the spouse cannot be classified as a qualifying non-resident taxpayer because he does not meet the income requirement. The foregoing means that the interested party and her spouse cannot be regarded as tax partners under Article 1.2, fourth paragraph, preamble and under b, of the Wet IB 2001.
+
+2.11.
+The taxable income of the interested party, as a qualifying non-resident taxpayer, is determined on the basis of Article 7.8 of the Wet IB 2001. Article 7.8., First paragraph, of the Wet IB 2001 reads as follows:
+
+'For a qualifying non-resident taxpayer, income from work and home in the Netherlands is the combined amount of income from work and home, referred to in Article 7.2, and taxable income from own home that is not already included in income from work and home in the Netherlands. calculated in accordance with the rules of Chapter 3, if negative, less:
+
+Expenditure on income provisions, calculated in accordance with the rules of Chapter 3, and
+
+The personal allowance not already included in the taxable income from work and home in the Netherlands, calculated in accordance with the rules of Chapter 6. "
+
+2.12.
+The taxable income of the spouse, as a non-qualifying non-resident taxpayer, is determined in accordance with Article 7.2. of the Wet IB 2001. Pursuant to Article 7.2, second paragraph, preamble and under f, for Dutch tax purposes, the spouse can only be considered income from his own home if it concerns an owner-occupied home in the Netherlands. Now that the house is located in Belgium, the spouse does not take into account income from his own home for the tax in the Netherlands.
+
+2.13.
+The next question is how the income components relating to the home should be allocated to the interested party or her spouse. Article 2.17, first paragraph, of the Wet IB 2001 reads as follows:
+
+"Income items of the taxpayer and his partner are taken into account by the person who enjoyed the income items or who are printing them."
+
+Pursuant to Article 3.110 of the IB Act 2001, taxable income from the owner-occupied home is the benefits from the owner-occupied home, less deductible costs that are deductible from those benefits.
+
+2.14.
+Since the interested party and her spouse are not a tax partner, access to the free distribution of common income components is not open to them under Article 2.17, second paragraph, of the IB 2001 Act. As a result, the allocation of income and costs is determined on the basis of the main rule of Article 2.17, first paragraph. For the costs related to the financing costs of the house, these will then be taken into account by the person on whom they are printing.
+
+2.15.
+With what the interested party has argued, it has not made it plausible that the interest costs are fully on it. The court takes the following into account. The 'deed of loan' submitted by the interested party with regard to the loan from the B.V. is unclear. The deed describes that it concerns the refinancing of the house in the light of a renovation, whereby it is stipulated that with regard to the reported mortgage and pledging, the provisions apply that are customary for mortgages to be executed by the relevant notary. What this should be understood in the relationship between the interested party and her spouse, including with regard to (joint and several) liability or the obligation to contribute, has not been elaborated further. The original mortgage deed that preceded the refinancing was not submitted by the interested party. The interested party did provide a copy of the prenuptial agreement, which shows that the parties have agreed that the interested party and her spouse must contribute to the costs of the joint household in proportion to their income. The court understands that the interested party means to say, and the inspector has not denied that this should include interest costs. It is established that, with regard to 2015, the percentage to which the interested party is deemed to have contributed is 67.6% (see 2.3). In the documents submitted by him, the inspector took the position that there were pressing costs for that percentage (defense page 8). The interest costs of the house then weigh 67.6% on the interested party. The other provisions of section 3.6 of the IB Act 2001 to which the interested party refers do not change this. The argument of the interested party with regard to article 3.119a and article 3.121 of the Wet IB 2001 is therefore rejected. These provisions only apply to interested parties and fall under the (restrictive) effect of Article 2.17 of the IB 2001 Act.
+
+2.16.
+The foregoing leads to the opinion that, on the basis of the national law provisions of the Wet IB 2001, the interested party can take into account 67.6% of the deductible items for the owner-occupied home, or (67.6% * € 14,520 =) € 9,815. The inspector's argument in his plea that in that case the income from his own home should be set at an equal percentage is rejected, because the inspector has not demonstrated that the interested party is entitled to more than half of the house (Article 3.115 of the IB Act 2001).
+
+Application of Union law
+
+2.17.
+The interested party argues that EU law entails that the interested party can deduct 100% of the mortgage payments from her Dutch income, because the spouse cannot make significant use of tax advantages in respect of the owner-occupied home in Belgium. The court rules as follows.
+
+2.18.
+It follows from settled case law of the CJEU that a Member State may, in principle, grant certain tax advantages relating to the personal and family situation to its residents without these tax advantages also being available to non-residents. As a rule, this distinction is not discriminatory. However, this is different in a case where the non-resident has no significant income in the State of residence and acquires the majority of his taxable income in another Member State, as a result of which the State of residence cannot grant him the benefits arising from the taking into account his personal and family situation.
+
+2.19.
+The tax benefits claimed are related to a home in Belgium. For the purposes of the case law referred to in 2.18, the deduction of negative income from an owner-occupied home can be regarded as tax benefits related to the fiscal capacity and thus to the personal and family situation of the taxpayer. As a starting point, withholding the tax benefits from a non-resident as an interested party is not discriminatory. In addition, the interested party did receive a deduction for the part of the deductible items for owner-occupied home that presses on her. To that extent, the interested party is not discriminated against in the Netherlands compared to a resident who, for example as a result of a divorce, owns a home with a taxpayer who is no longer his tax partner.
+
+2.20.
+However, the interested party also wants a deduction for the part that is attributable to the spouse, because, as the court understands, the spouse's income almost entirely originated in the Netherlands. The court will presumably assume, also in view of Article 2.17 of the Wet IB 2001, that EU law means under certain circumstances that the Netherlands, as the source state, must allow deduction from a taxpayer in connection with negative income of a person other than that taxpayer, namely the husband. It follows from the Renneberg judgment that the family income is decisive in assessing whether there is discrimination against a non-resident. In the opinion of the court, this is beyond reasonable doubt that this refers to the total income of the individual members of the family concerned. In the case of an interested party, this family income is the sum of her income and that of her husband. Here, the interested party himself has little or no taxable income from Belgium. The spouse's income comes almost entirely from the Netherlands, but a substantial part of the tax on that income has been allocated to Belgium. In view of the aforementioned case law, it is then important whether the taxable income of the spouse in Belgium is so low that Belgium cannot grant him the tax advantages related to the personal and family situation.
+
+2.21.
+It is no longer a dispute between the parties that both the interested party and her spouse did not enjoy any facilities comparable to mortgage interest (the housing bonus) in Belgium in the current year. Although the parties argue about the exact level of the income of the spouse whose taxation right has been allocated to Belgium, it is not disputed that the taxable income in Belgium is in principle sufficient to (in the hypothetical case that Belgium would have a deduction comparable to the Netherlands. ) to be able to effect a possible deduction of the part of the spouse's mortgage interest (32.4%). The court assumes that the income whose taxation right has been allocated to Belgium is also (largely) taxed in Belgium. The taxable income of the spouse in Belgium is then so high that in Belgium the tax capacity of the interested party and her spouse can be taken into account, and thus the personal and family situation of the interested party. This means that EU law does not compel the Netherlands to take this into account when taxing an interested party. The fact that the spouse may not be able to effect the deduction of the mortgage interest paid in Belgium does not change that. This is apparently because Belgium has other facilities and conditions with regard to the owner-occupied home and the associated financing costs. That is a disparity. A disadvantage resulting from a disparity does not in itself lead to a breach of Union law. To the extent that the interested party has argued that Union law entails the right to a 100% deduction of the mortgage payments, that argument is rejected.
+
+5 Conclusion
+
+2.22.
+The conclusion is that the alternative argument of the interested party is successful. The stakeholder's share in the deductible items for owner-occupied home must be increased to € 9,815, which means that the IB / PVV assessment must be reduced to a calculated taxable income from work and home of € 60,062.
+
+2.23.
+In view of the above, the appeal has been declared well-founded.
+
+2.24.
+The court finds reason to order the inspector to pay the costs reasonably incurred by the interested party in connection with the handling of the appeal. These costs are set at € 1,050 (1 point for submitting the notice of appeal, 1 point for appearing at the hearing with a value per point of € 525 and a weighting factor 1). In doing so, the court observes that the further document of the interested party with date 28 November 2018 is not regarded as a reply, because further documents have been brought into the proceedings by means of that letter, but no substantive response to the defense was given. This only happened by letter of 12 December 2019, i.e. after the invitations to the hearing on 14 January 2020 ending the preliminary investigation have been sent. There is no reason for reimbursement of the costs of the objection phase since it has not been shown that this was requested during the objection phase.
+
+This statement was made by mr. M.M. Dondorp-Loopstra, judge, in the presence of mr. S.A. van Beijsterveldt, registrar and publicly pronounced on March 12, 2020.
+
+The registrar, The judge,
+
+Copy sent by registered mail to parties on:
+
+This judgment does not need to be implemented until the judgment has become final. The judgment is irrevocable if no legal remedy has been taken within six weeks of the dispatch of the judgment or if an irrevocable decision has been taken on the legal remedy employed (article 27h, third paragraph and article 28, seventh paragraph AWR).
+
+Remedy
+
+The parties may lodge an appeal against this decision with the court in 's-Hertogenbosch (tax office), PO Box 70583, within six weeks of the date of dispatch.
+
+5201 CZ 's-Hertogenbosch.
+
+When lodging an appeal, the following must be observed:
+
+1. A copy of this decision must be submitted with the notice of appeal. 2 - The notice of appeal must be signed and state at least the following: a. The name and address of the person submitting it;
+
+b. a date;
+
+c. a description of the judgment against which the appeal has been lodged;
+
+d. the grounds of appeal.
+
+It is possible for citizens to lodge an appeal digitally. For this, use can be made of the forms on Rechtspraak.nl / Digital counter administrative law.
+
+CJEU 14 February 1995, Schumacker, C-279/93, ECLI: EU: C: 1995: 31, points 34 and 36; CJEU 12 December 2013, Imfeld and Garcet, C-303/12, ECLI: NL: XX: 2013: 183, points 43 and 44; CJEU 9 February 2017, judgment X, C-283/15, ECLI: EU: C: 2017: 102, paragraphs 32 and 33
+
+CJEU 16 October 2008, Renneberg, C-527/06, ECLI: EU: C: 2008: 566, paragraphs 63 to 68, hereinafter: Renneberg, and HR 22 May 2015, ECLI: NL: HR: 2015: 1258
+
+CJEU 16 October 2008, Renneberg, C-527/06, ECLI: EU: C: 2008: 566
+
+Court of Breda June 10, 2011, ECLI: NL: RBBRE: 2011: BR1499
+
+Court of Appeal in 's-Hertogenbosch, November 15, 2018, ECLI: NL: GHSHE: 2018: 4638, ro. 4.6.3.2.
