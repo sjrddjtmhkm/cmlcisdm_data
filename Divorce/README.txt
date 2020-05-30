@@ -6,3 +6,5 @@ Files:
 4) full_concept_model_divorce.pdf: Full concept model for divorce legal domain
 5)ExtractedInformation.csv: Extracted data frame containing texts from legal cases
 6) category_dictionary: category dictionary used to provide options in statistics
+
+*section-wise concept models are not made public due to proprietary reasons.
